@@ -1,5 +1,5 @@
 {
-  "name": "levvate-backend",
+  "name": "onboarding-backend",
   "version": "1.0.0",
   "description": "Backend for client onboarding system",
   "main": "dist/index.js",

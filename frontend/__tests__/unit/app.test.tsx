@@ -25,7 +25,7 @@ describe('App Component', () => {
     );
 
     await waitFor(() => {
-      expect(screen.getByText(/Levvate Onboarding/i)).toBeInTheDocument();
+      expect(screen.getByText(/Client Onboarding/i)).toBeInTheDocument();
     });
   });
 });

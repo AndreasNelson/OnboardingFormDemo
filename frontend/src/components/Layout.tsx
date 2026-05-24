@@ -20,7 +20,7 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
       <AppShell.Header>
         <Container size="lg" h="100%">
           <Group h="100%" justify="space-between">
-            <Title order={2} c="blue.7">Levvate Onboarding</Title>
+            <Title order={2} c="blue.7">Client Onboarding</Title>
             <Text size="sm" c="dimmed" fs="italic">Technical Demonstration</Text>
           </Group>
         </Container>

@@ -1,7 +1,7 @@
 services:
   # Backend
   - type: web
-    name: levvate-backend
+    name: onboarding-backend
     env: node
     rootDir: backend
     buildCommand: npm install && npm run build
@@ -16,7 +16,7 @@ services:
 
   # Frontend
   - type: web
-    name: levvate-frontend
+    name: onboarding-frontend
     env: static
     rootDir: frontend
     buildCommand: npm install && npm run build
@@ -25,7 +25,7 @@ services:
       - key: VITE_API_URL
         fromService:
           type: web
-          name: levvate-backend
+          name: onboarding-backend
           property: host
     routes:
       - type: rewrite

@@ -15,6 +15,6 @@ describe('Layout Component', () => {
 
     expect(screen.getByTestId('test-child')).toBeInTheDocument();
     expect(screen.getByText(/Mockup Application/i)).toBeInTheDocument();
-    expect(screen.getByText(/Levvate Onboarding/i)).toBeInTheDocument();
+    expect(screen.getByText(/Client Onboarding/i)).toBeInTheDocument();
   });
 });
