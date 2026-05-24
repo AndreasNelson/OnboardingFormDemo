@@ -5,6 +5,9 @@
 [![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 [![Turso](https://img.shields.io/badge/Turso-000000?style=flat&logo=sqlite&logoColor=white)](https://turso.tech/)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://onboarding-technical-demo-andreasnelsons-projects.vercel.app)
+
+**Live Demo**: [https://onboarding-technical-demo-andreasnelsons-projects.vercel.app](https://onboarding-technical-demo-andreasnelsons-projects.vercel.app)
 
 A high-performance, production-ready implementation of a multi-step client onboarding workflow. This project serves as a technical showcase for modern full-stack development patterns, focusing on **UX fluidity**, **data security**, and **architectural scalability**.
 
